@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 
+My name is Vivek Sharma, lecturer at John Jay College of Criminal Justice. 
+I am a teacher at the Mathematics and Computer Science department and a researcher working on various project found on the repositories.
 
+Please feel free to contact me to discuss ideas, collaborate or suggest code changes.
 
-**wewakesharma/wewakesharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some information about me.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Propaganda Detection using text analysis
 - 🌱 I’m currently teaching Computer Architecture and Introduction to Programming
-- 👯 I’m looking to collaborate on ... anything
-- 🤔 I’m looking for collaboration with researchers to work on interesting things.
-- 💬 Ask me about all computer stuff.
+- 👯 I’m looking to collaborate on social media analysis, ML/AI applications.
 - 📫 Email me at vsharma@jjay.cuny.edu
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I like to enjoy music, reading books on mystery and horror.
+- ⚡ Fun fact: I like watching horror movies, and reading books on mystery, horror and biographies.
 
